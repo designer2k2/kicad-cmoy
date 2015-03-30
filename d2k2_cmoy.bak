@@ -1,0 +1,68 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "cmoy kicad layout by designer2k2"
+Date "Montag, 30. März 2015"
+Rev "0.1"
+Comp "http://www.designer2k2.at"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L BATTERY BT?
+U 1 1 551979A1
+P 8950 1750
+F 0 "BT?" H 8950 1950 50  0000 C CNN
+F 1 "9V" H 8950 1560 50  0000 C CNN
+F 2 "" H 8950 1750 60  0000 C CNN
+F 3 "" H 8950 1750 60  0000 C CNN
+	1    8950 1750
+	0    1    1    0   
+$EndComp
+$Comp
+L BATTERY BT?
+U 1 1 55197A54
+P 8950 2600
+F 0 "BT?" H 8950 2800 50  0000 C CNN
+F 1 "9V" H 8950 2410 50  0000 C CNN
+F 2 "" H 8950 2600 60  0000 C CNN
+F 3 "" H 8950 2600 60  0000 C CNN
+	1    8950 2600
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC
